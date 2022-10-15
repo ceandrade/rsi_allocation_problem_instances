@@ -17,6 +17,7 @@ Root Sequence Index (RSI) Allocation Problem also know as
 [RSI assigment](http://www.techplayon.com/5g-nr-physical-cell-id-pci-planning)
 on 5G networks.
 
+
 :black_nib: License and Citing
 --------------------------------------------------------------------------------
 
