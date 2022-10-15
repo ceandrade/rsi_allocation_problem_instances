@@ -28,9 +28,10 @@ materials mentioning features or use of this software (as a whole package or
 any parts of it) and/or the data used to test it must cite the following
 article explicitly":
 
-> M. Londe, C.E. Andrade, L.S. Pessoa. Exact and heuristic approaches for
-> the root sequence index allocation problem. Applied Soft Computing. 2022,
-> to appear.
+> M. Londe, C.E. Andrade, L.S. Pessoa. Exact and heuristic approaches for 
+> the root sequence index allocation problem. Applied Soft Computing, 
+> page 109634. 2022,
+> DOI [10.1016/j.asoc.2022.109634](https://doi.org/10.1016/j.asoc.2022.109634).
 
 [Check it out the full license.](https://github.com/ceandrade/rsi_allocation_problem_instances/blob/master/LICENSE.md)
 

@@ -24,8 +24,9 @@ met:
    used to test it must cite the following article explicitly:
 
 > M. Londe, C.E. Andrade, L.S. Pessoa. Exact and heuristic approaches for 
-> the root sequence index allocation problem. Applied Soft Computing. 2022,
-> to appear.
+> the root sequence index allocation problem. Applied Soft Computing, 
+> page 109634. 2022,
+> DOI [10.1016/j.asoc.2022.109634](https://doi.org/10.1016/j.asoc.2022.109634).
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
